@@ -26,6 +26,6 @@ function getHistory() {
 
 This is the selection
 
-Sequencing = Has defined variables in the beginning of the code and a certain order to follow in order for the progam to occur in a certain order
+Sequencing = Has defined variables in the beginning of the code followed by the for and if statements which allow the code to occur in a certain order
 Selection = Contains an if statement which allows for conditioned decision making
 Iteration = Because of the inclusion of the for code, it is able to repeat for certain variables of i
